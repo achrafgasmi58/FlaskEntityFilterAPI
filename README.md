@@ -1,4 +1,4 @@
-FlaskEntityFilterAPI
+###FlaskEntityFilterAPI
 
 A Flask-based API for filtering and managing individual and corporate entities with support for fuzzy name matching and date filtering.
 
